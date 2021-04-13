@@ -1,5 +1,5 @@
 ## CateringScheduling
-An example of a multi-process synchronization problem
+An example of a multi-process synchronization problem.
 
 
 **Processes**
@@ -11,4 +11,4 @@ An example of a multi-process synchronization problem
 + This will last until all food and drink is consumed. 
 
 
-Simulated the scheduling by implementing in Java
+Simulated the scheduling by implementing in Java.
